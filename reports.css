@@ -1,0 +1,16 @@
+@import url('dashboard.css');
+
+/* Extra styling for Reports page if needed */
+.report-list {
+    margin-top: 40px;
+    padding: 20px;
+    background: white;
+    border-radius: 10px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.report-list p {
+    font-size: 18px;
+    color: #777;
+} 
